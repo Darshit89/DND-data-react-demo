@@ -1,0 +1,38 @@
+.dom-bg {
+  background: #ccc;
+}
+
+.responsive-bg {
+  background: #f0f0f0;
+}
+
+.link-color {
+  color: #fff;
+}
+
+.menu-cen {
+  text-align: center;
+}
+
+.box-menu {
+  border: 1px dashed gray;
+  background-color: white;
+  width: 100%;
+  padding: 10px;
+  cursor: move;
+}
+
+.link-back {
+  color: #fff;
+  text-decoration: none;
+}
+
+.layout-grid {
+  background: #f0f0f0;
+  padding: 16px;
+  height: 450px;
+}
+
+.ht-div {
+  height: 100%;
+}
